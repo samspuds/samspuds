@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samspuds
-- 👀 I’m interested in frontend evelopment
-- 🌱 I’m currently learning javascript,
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning front end web development,
 - 💞️ I’m looking to collaborate on open source projects in the Bitcoin ecosystem
 - 📫 How to reach me 
 
