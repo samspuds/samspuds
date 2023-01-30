@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samspuds
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning front end web development,
-- 💞️ I’m looking to collaborate on open source projects in the Bitcoin ecosystem
+- 💞️ I’m looking to collaborate on open source projects such as Nostr, Bitcoin and the Lightning Network.
 - 📫 How to reach me 
 
 <!---
